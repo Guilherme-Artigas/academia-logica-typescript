@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node18": "^2.0.1",
+    "typescript": "^5.0.4"
+  }
 }
