@@ -18,7 +18,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "array-bracket-spacing": ["error", "always"],
+        // "array-bracket-spacing": ["error", "always"],
         "arrow-spacing": ["error", {"before": true, "after": true}],
         "block-spacing": "error",
         "brace-style": "error",
