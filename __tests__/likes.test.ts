@@ -1,4 +1,4 @@
-import { likes } from '../src/codewars/level-eight/likes';
+import { likes } from '../src/codewars/level-six/likes';
 
 test('A função "likes" quando recebe uma lista vazia retorna: "no one likes this"', () => {
   const resultExpected = likes([]);
